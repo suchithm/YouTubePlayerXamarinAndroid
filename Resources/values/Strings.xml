@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	 <string name="app_name">VideoDemo</string> 
+    <string name="btnPlay">Play</string>
+    <string name="txtTitleIntro"> Quick Video Intro on Topic</string>
+    <string name="txtSkipVideo">Skip Video,Proceed to chapter </string>
+</resources>
